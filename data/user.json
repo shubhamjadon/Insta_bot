@@ -1,0 +1,9 @@
+{
+    "insta_username": "",
+    "insta_password": "",
+    "doPost": true,
+    "totalPosts": 3,
+    "doComment": false,
+    "doLike": false,
+    "totalLikes": 10
+}
